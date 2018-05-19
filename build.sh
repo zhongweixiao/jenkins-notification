@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -rf bin
+rm -rf bin/noti
 go build -o bin/noti
